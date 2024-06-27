@@ -3,4 +3,6 @@ project(myString_class_)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(myString_class_ main.cpp)
+#add_executable(myString_class_ main.cpp)
+add_executable(myString_class_ sinematic.cpp)
+
