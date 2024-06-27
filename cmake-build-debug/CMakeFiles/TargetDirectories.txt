@@ -1,0 +1,3 @@
+/Users/s1pex/Documents/STEP/homeworks/myString[class]/cmake-build-debug/CMakeFiles/myString_class_.dir
+/Users/s1pex/Documents/STEP/homeworks/myString[class]/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/s1pex/Documents/STEP/homeworks/myString[class]/cmake-build-debug/CMakeFiles/rebuild_cache.dir
